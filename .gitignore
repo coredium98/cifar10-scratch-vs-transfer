@@ -1,0 +1,7 @@
+data/
+checkpoints/
+smoke_*/
+smoke_progress.log
+progress.log
+.ipynb_checkpoints/
+.DS_Store
